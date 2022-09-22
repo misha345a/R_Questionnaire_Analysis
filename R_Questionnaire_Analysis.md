@@ -1,4 +1,4 @@
-Quantitative Analysis of Macaroni’s Resuarant Survey Responses.
+Quantitative Analysis of Macaroni’s Restuarant Survey Responses.
 ================
 Michael Markin
 3/22/2022
